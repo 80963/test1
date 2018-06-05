@@ -1,1 +1,1 @@
-ветка branch2
+ветка master
